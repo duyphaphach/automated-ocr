@@ -1,5 +1,5 @@
 {
-  "name": "autocapture-ocr",
+  "name": "automated-ocr",
   "version": "1.0.0",
   "main": "extract-texts.js",
   "license": "MIT",
